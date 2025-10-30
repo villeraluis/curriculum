@@ -21,7 +21,7 @@ Soy Ingeniero de Sistemas con experiencia en desarrollo full-stack, especializad
 ## 📞 Contacto
 - 📧 Email: villeraluis47@gmail.com
 - 📱 Teléfono: +57 300 4134484
-- 💼 LinkedIn: [Luis Alfredo Villera Pastrana](https://linkedin.com/in/luis-alfredo-villera-pastrana](https://www.linkedin.com/in/luis-alfredo-villera-pastrana-391a8313b/))
+- 💼 LinkedIn: [Luis Alfredo Villera Pastrana](linkedin.com/in/luis-alfredo-villera-pastrana-391a8313b)
 
 ---
 *Desarrollado con HTML5, CSS3 y mucho ☕*
